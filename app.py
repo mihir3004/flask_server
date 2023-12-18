@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, redirect, url_for, render_template
+from flask import Flask
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
