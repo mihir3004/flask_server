@@ -3,4 +3,3 @@ Gunicorn
 numpy
 scikit-learn
 scikit-fuzzy
-Mataplotlib
