@@ -3,4 +3,4 @@ Gunicorn
 numpy
 scikit-learn
 scikit-fuzzy
-mataplotlib
+Mataplotlib
