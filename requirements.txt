@@ -1,5 +1,6 @@
 Flask
 Gunicorn
 numpy
+mataplotlib
 scikit-learn
 scikit-fuzzy
